@@ -76,11 +76,7 @@ label {
 	display: block;
 	font-weight: bold;
 }
-.contenedor {
-	display: flex;
-	flex-direction: row;
-	flex-wrap: wrap;
-}
+
 
 
 input {
@@ -900,5 +896,26 @@ footer .bottom-footer a {
 		width: 100%;
 	}
 }
-
+.contenedor {
+	display: flex;
+	flex-wrap: wrap;
+}
+.a {
+	width: 40%;
+}
+.b {
+	width: 60%;
+}
+.c {
+	width: 65%;
+}
+.d {
+	width: 35%;
+}
+.e {
+	width: 50%;
+}
+.f {
+	width: 50%;
+}
 
