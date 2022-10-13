@@ -35,3 +35,11 @@
     display: grid;
     grid-template-columns: 50% 50%;
 }
+.row-horizontal{
+	display: flex;
+	justify-content: space-between;
+}
+.col-1-3-7{
+	margin: 0%;
+	width: 35vh;
+}

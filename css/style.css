@@ -124,6 +124,7 @@ select {
 
 .t-center {
 	text-align: center !important;
+	padding: 30px;
 }
 
 .t-left {
@@ -852,7 +853,6 @@ footer .bottom-footer a {
 	opacity: 1;
 	bottom: 7%;
 }
-
 
 @media(min-width:768px) {}
 
